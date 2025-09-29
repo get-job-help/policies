@@ -64,7 +64,7 @@ You may terminate your account at any time through the account settings in the a
 
 ## Changes to Terms
 
-We may update these terms of service from time to time. The most recent version will always appear on this site at this URL. We publicly track all changes to these terms, which can be viewed in our [change log](#) for full transparency.
+We may update these terms of service from time to time. The most recent version will always appear on this site at this URL. We publicly track all changes to these terms, which can be viewed in our [change log](https://github.com/get-job-help/policies/commits/adopted/TERMS-OF-SERVICE.md) for full transparency.
 
 If we make material changes to these terms, we will provide at least 30 days notice before the new terms take effect. Your continued use of the service after changes take effect constitutes acceptance of the updated terms.
 
