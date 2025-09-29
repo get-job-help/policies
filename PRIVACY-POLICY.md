@@ -54,7 +54,7 @@ We do not use cookies on this main website. Within the GetJobHelp app, we use a 
 
 ## Changes to This Policy
 
-We may update this privacy policy from time to time. The most recent version of the policy will always appear on this site at this URL. We publicly track all changes to this policy, which can be viewed in our [change log](#) for full transparency. We will notify you of any material changes by posting the updated policy on this page and updating the "Last updated" date.
+We may update this privacy policy from time to time. The most recent version of the policy will always appear on this site at this URL. We publicly track all changes to this policy, which can be viewed in our [change log](https://github.com/get-job-help/policies/commits/adopted/PRIVACY-POLICY.md) for full transparency. We will notify you of any material changes by posting the updated policy on this page and updating the "Last updated" date.
 
 ## Contact Us
 
